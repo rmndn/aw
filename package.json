@@ -1,5 +1,5 @@
 {
-  "name": "Yoimiya-MD",
+  "name": "ARS7z-MD",
   "version": "0.0.3",
   "description": "Automated whatsapp md bot created using nodejs and baileys lib",
   "main": "index.js",
@@ -8,9 +8,9 @@
     "start": "node index.js"
   },
   "keywords": [
-    "Yoimiya-MD"
+    "ARS7z-MD"
   ],
-  "author": "DinzID",
+  "author": "ArjunzID",
   "license": "Vyl",
   "dependencies": {
   "cfonts": "^3.3.0",

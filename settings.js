@@ -13,16 +13,16 @@ global.antispam = false//auto kick spammer (true to on, false to off)
 //BATAS//
 //=========UBAH BAGIAN THUMBNAIL MENU & ALLMENU==========//
 global.gif = fs.readFileSync('./data/image/yoimiya.mp4'), // BISA JUGA DI BAGIAN DATA/IMAGE/YOIMIYA.MP4
-global.thumbnail = 'https://img3.teletype.in/files/20/47/2047944a-d1a1-4b06-9d73-20b98779a96f.jpeg', //THUMB MENU KALIAN
+global.thumbnail = 'https://ar-hosting.pages.dev/1742275958516.JPG', //THUMB MENU KALIAN
 global.musikmenu = 'https://files.catbox.moe/n85z9t.mp3' //THUMB MUSIK KALIAN
 global.dinzmenu = 'https://files.catbox.moe/jsv33h.jpg', //THUMB MENU button KALIAN
 /////////////////////////////////////////////////////////////////////////////////
 //BATAS//
 //////////////////////SETTING TAMPILAN MENU KALIAN//////////////////
-global.ig = 'ᴅɪɴᴢɪᴅ ᴄʜx' //NAMA IG LU
-global.yt = 'Dinz Kece' //NAMA YT LU, KALO GADA GAUSAH DIISI
-global.ttowner = 'ᴋᴍɴᴢ178' //NAMA TIKTOK LU
-global.ownername = '✨️ DinzID Chx ✨️' //NAMA LU
+global.ig = '𝗔𝗿𝗷𝘂𝗻𝗮 𝗪𝗮𝘇𝗮' //NAMA IG LU
+global.yt = '𝙖𝙧𝙨𝙜𝙖𝙢𝙞𝙣𝙜𝙨𝙩𝙤𝙧𝙚' //NAMA YT LU, KALO GADA GAUSAH DIISI
+global.ttowner = '𝘼𝙧𝙟𝙪𝙣💎' //NAMA TIKTOK LU
+global.ownername = '✨️ 𝗔𝗿𝗷𝘂𝗻𝗮 𝗪𝗮𝘇𝗮 ✨️' //NAMA LU
 global.owner = ['6283182739135'] // SETTING JUGA DI FOLDER DATABASE 
 global.ownernomer = '6283182739135' // NOMOR LU
 global.socialm = 'GitHub: -'
